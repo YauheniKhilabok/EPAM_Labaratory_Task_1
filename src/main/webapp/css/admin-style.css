@@ -1,0 +1,139 @@
+body {
+    background: url(../img/body-background.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+
+.navbar {
+    margin-bottom: 50px;
+    border-radius: 0;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+    background-color: #36486b;
+}
+
+.main-footer {
+    background-color: #36486b;
+    padding: 25px;
+}
+
+.main-admin-size {
+    width: 100%;
+    height: 350px;
+}
+
+.main-admin-style {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    background-color: #fff;
+    border: 2px #4682B4 solid;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #4169E0;
+    padding-left: 2%;
+    text-align: justify;
+}
+
+.main-user-management-style {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    background-color: #fff;
+    border: 2px #000 solid;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #00008B;
+    padding-left: 2%;
+    text-align: justify;
+}
+
+.img-size {
+    width: 35%;
+    height: 25%;
+}
+
+.button-margin-bottom {
+    margin-bottom: 40px;
+}
+
+.div-pos {
+    float: left;
+    margin-right: 5px;
+}
+
+.supplier-margin-bottom {
+    margin-bottom: 30px;
+}
+
+.div-display-none {
+    display: none;
+}
+
+.form-block {
+    width: 50%;
+    height: 100%;
+    margin: auto;
+    background-color: #fff;
+    border: 2px #000 solid;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #00008B;
+    margin-bottom: 3%;
+    margin-left: 0%;
+    margin-top: 2%;
+    padding: 3%;
+}
+
+.admin-background {
+    height: 550px;
+    background: url(../img/admin-background.jpg) no-repeat;
+    background-size: 100%;
+}
+
+.pagination-position {
+    margin-left: 20px;
+    padding-bottom: 50px;
+    width: 800px;
+    height: 80px;
+}
+
+.error-message-text-style {
+    color: #8B0000;
+    font-size: 12px;
+}
+
+.success-message-text-style {
+    color: #5e9f51;
+    font-size: 12px;
+}
+
+.div-statistics {
+    width: 600px;
+    height: 500px;
+    margin: auto;
+}
+
+.locale-position{
+    margin-top:-25px;
+    margin-left: 10px;
+    color:#fff;
+}
+
+.locale-width{
+    width: 160px;
+}
+
+.locale-first-button{
+    width:80px;
+    float: left;
+}
+
+.locale-second-button{
+    width:80px;
+    margin-left: -25px;
+    float: left;
+}
+

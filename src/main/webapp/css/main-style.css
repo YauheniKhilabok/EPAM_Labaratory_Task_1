@@ -1,0 +1,295 @@
+body {
+    background: url(../img/body-background.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+
+.headpiece {
+    margin-top: 50px;
+    background: url(../img/header-background.jpg) no-repeat;
+    background-size: 100%;
+    width: 90%;
+    height: 210px;
+}
+
+.menu .menu-inner {
+    padding: 0;
+}
+
+.menu .men {
+    margin: 0;
+    display: table;
+    width: 100%;
+}
+
+.menu .men li {
+    display: table-cell;
+    width: 1%;
+    float: none;
+}
+
+.menu .men li a {
+    font-weight: bold;
+    text-align: center;
+    border-left: 1px solid rgba(255, 255, 255, .75);
+    border-right: 1px solid rgba(0, 0, 0, .1);
+}
+
+.menu .men li:first-child a {
+    border-left: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+.menu .men li:last-child a {
+    border-right: 0;
+    border-radius: 0 3px 3px 0;
+}
+
+.jumbotron {
+    margin: 80px 0;
+    text-align: center;
+}
+
+.jumbotron h1 {
+    font-size: 100px;
+    line-height: 1;
+}
+
+.jumbotron .lead {
+    font-size: 24px;
+    line-height: 1.25;
+}
+
+.jumbotron .btn {
+    font-size: 21px;
+    padding: 14px 24px;
+}
+
+.slider-size {
+    height: 600px;
+}
+
+.greeting-indent {
+    margin-top: 50px;
+}
+
+.text-font {
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
+}
+
+.text-align {
+    text-align: justify;
+}
+
+.text-indent {
+    text-indent: 20px;
+}
+
+.main-background {
+    background: url(../img/street-workout.jpg) no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 900px;
+    border-radius: 10px;
+    margin-top: 5%;
+}
+
+.log-position {
+    margin-bottom: 60px;
+    margin-top: -40px;
+}
+
+.reg-style {
+    width: 40%;
+    height: 75%;
+    margin: auto;
+    background-color: #fff;
+    border: 3px solid #000;
+    border-radius: 10px;
+    box-shadow: 0 0 20px #000;
+}
+
+.form-size {
+    width: 60%;
+    height: 60%;
+    margin: auto;
+}
+
+.input-size {
+    width: 75%;
+    height: 10%;
+}
+
+.btn-add-size {
+    width: 100%;
+    height: 10%;
+}
+
+.btn-add-pos {
+    float: left;
+    margin-left: 2%;
+}
+
+.form-padding {
+    padding-top: 5%;
+}
+
+.color-text {
+    color: #FFFFFF;
+}
+
+.location-map {
+    width: 100%;
+    height: 600px;
+}
+
+.partfolio-position {
+    height: 250px;
+    width: 500px;
+    padding-top: 50px;
+    margin-bottom: 5%;
+}
+
+.size-partfolio-image {
+    width: 140px;
+    height: 200px;
+}
+
+.pluso-position {
+    width: 400px;
+    height: 100px;
+    margin: auto;
+}
+
+#toTop {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    cursor: pointer;
+    display: none;
+}
+
+.article-size-image {
+    width: 200px;
+    height: 200px;
+}
+
+.diet-image {
+    float: left;
+    margin: 7px 7px 7px 0;
+    width: 250px;
+    height: 140px;
+}
+
+.video-position {
+    width: 100%;
+    height: 500px;
+    margin: auto;
+}
+
+.video-size {
+    width: 100%;
+    height: 480px;
+}
+
+.article-image-size-one {
+    width: 450px;
+    height: 200px;
+}
+
+.article-image-size-three {
+    width: 400px;
+    height: 200px;
+}
+
+.article-image-size-four {
+    width: 250px;
+    height: 400px;
+}
+
+.textarea-width {
+    width: 100%;
+}
+
+.carousel-inner img {
+    width: 100%;
+    min-height: 200px;
+}
+
+.share-image-size {
+    width: 200px;
+    height: 100px;
+}
+
+.folder-padding {
+    padding-left: 10%;
+}
+
+.type-frame-style {
+    border: 1px #000 solid;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #008000;
+    padding: 20px;
+    margin: 10px;
+}
+
+.products-frame-style {
+    border: 1px #000 solid;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #000;
+    padding: 20px;
+    margin: 10px;
+}
+
+.message-pos {
+    width: 300px;
+    height: 5%;
+    padding-top: 1%;
+    margin: auto;
+}
+
+.pagination-position {
+    margin: 0 auto;
+    padding-bottom: 50px;
+    width: 400px;
+    height: 80px;
+}
+
+.img-size-for-catalog {
+    width: 70px;
+    height: 70px;
+}
+
+.locale-position {
+    margin-top: -60px;
+    margin-left: -20px;
+    color: #fff;
+    position: fixed;
+}
+
+.locale-width {
+    width: 160px;
+}
+
+.locale-first-button {
+    width: 80px;
+    float: left;
+}
+
+.locale-second-button {
+    width: 80px;
+    margin-left: -25px;
+    float: left;
+}
+
+
+
+
+
+
+
+
+

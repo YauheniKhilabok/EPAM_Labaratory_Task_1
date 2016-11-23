@@ -1,0 +1,18 @@
+2016-09-20 20:48:57 INFO AuthorizationRerouting:79 - Authorization Error! User with such password or username does not exist.
+2016-09-20 20:49:07 INFO AuthorizationRerouting:79 - Authorization Error! User with such password or username does not exist.
+2016-09-20 20:49:21 INFO AuthorizationRerouting:62 - User with ID = 13 successfully authorized!
+2016-09-20 20:55:38 INFO SessionManager:73 - User with ID = 13 log out.
+2016-09-20 20:55:46 INFO AuthorizationRerouting:52 - Administrator is logged on.
+2016-09-20 20:58:24 INFO SessionManager:68 -  Administrator log out.
+2016-09-22 17:11:46 INFO AuthorizationRerouting:52 - Administrator is logged on.
+2016-09-22 17:11:59 INFO SessionManager:68 -  Administrator log out.
+2016-09-22 18:54:31 INFO AuthorizationRerouting:52 - Administrator is logged on.
+2016-09-23 22:52:40 INFO AuthorizationRerouting:62 - User with ID = 3 successfully authorized!
+2016-09-23 22:54:01 INFO SessionManager:73 - User with ID = 3 log out.
+2016-09-27 17:24:45 INFO AuthorizationRerouting:52 - Administrator is logged on.
+2016-09-27 17:25:07 INFO SessionManager:68 -  Administrator log out.
+2016-09-27 18:19:08 INFO AuthorizationRerouting:79 - Authorization Error! User with such password or username does not exist.
+2016-09-27 18:19:14 INFO AuthorizationRerouting:52 - Administrator is logged on.
+2016-09-27 18:19:16 INFO SessionManager:68 -  Administrator log out.
+2016-09-27 21:58:39 INFO AuthorizationRerouting:52 - Administrator is logged on.
+2016-09-27 21:58:51 INFO SessionManager:68 -  Administrator log out.
